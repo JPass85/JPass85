@@ -25,6 +25,9 @@ My journey through coding languages and network security has ignited a passion f
 </div>
 
 ### Endpoint
+<div>
+  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
 
 ### SEIM
 <div>
