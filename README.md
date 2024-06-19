@@ -10,7 +10,7 @@ My journey through coding languages and network security has ignited a passion f
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="#">Detection Lab</a>|
+| Incident Handler's Journel         | <a href="#">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="#">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
