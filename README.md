@@ -11,7 +11,7 @@ My journey through coding languages and network security has ignited a passion f
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment Report         | <a href="https://github.com/JPass85/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-| Phishing Alert Ticket | <a href="#">Phishing Alert Ticket</a>|
+| Phishing Alert Ticket | <a href="https://github.com/JPass85/Phishing-Alert-Ticket">Phishing Alert Ticket</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
