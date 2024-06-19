@@ -12,7 +12,7 @@ My journey through coding languages and network security has ignited a passion f
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment Report         | <a href="https://github.com/JPass85/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
 | Phishing Alert Ticket | <a href="https://github.com/JPass85/Phishing-Alert-Ticket">Phishing Alert Ticket</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Risk Assessment Report        | <a href="#">Security Risk Assessment Report</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
