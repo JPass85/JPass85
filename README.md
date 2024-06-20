@@ -4,7 +4,7 @@
 I am fueled by a deep interest in technology and a strong dedication to solving complex problems.
 
 ## Objective
-My journey through coding languages and network security has ignited a passion for cybersecurity. Now more than ever, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
+My journey through coding languages and cybersecurity has ignited a passion for cybersecurity. Now more than ever, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
 ## Skills
 
