@@ -15,7 +15,7 @@ My journey through coding languages and cybersecurity has ignited a passion for 
 | Security Risk Assessment Report        | <a href="https://github.com/JPass85/Security-Risk-Assessment-Report">Security Risk Assessment Report</a>|
 | Incident Analysis Report     | <a href="https://github.com/JPass85/Incident-Analysis-Report/tree/main">Incident Analysis Report</a>|
 | SQL Filter Queries                 | <a href="https://github.com/JPass85/SQL-Filter-Queries/tree/main"> SQL Filter Queries</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
