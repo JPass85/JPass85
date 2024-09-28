@@ -3,7 +3,7 @@
 
 I am fueled by a deep interest in technology and a strong dedication to solving complex problems.
 
-<a href="https://www.linkedin.com/in/jason-passmore-541868245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ## Objective
 My journey through coding languages, network security, and cybersecurity has ignited a passion for cybersecurity. Now more than ever, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
@@ -49,3 +49,6 @@ My journey through coding languages, network security, and cybersecurity has ign
 | Incident Analysis Report     | <a href="https://github.com/JPass85/Incident-Analysis-Report/tree/main">Incident Analysis Report</a>|
 | SQL Filter Queries                 | <a href="https://github.com/JPass85/SQL-Filter-Queries/tree/main"> SQL Filter Queries</a>|
 
+## Get In Touch
+
+<a href="https://www.linkedin.com/in/jason-passmore-541868245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
