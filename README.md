@@ -1,5 +1,6 @@
 ## Hello, I'm Jason
-<img src="https://github.com/[JPass85]/[Repository]/blob/main/images/banner.png" alt="Cybersecurity Banner" width="100%">
+👨‍💻 Cybersecurity Penetration Tester | 🔐 Ethical Hacker | 🛠 Security Researcher
+
 <a href="https://www.linkedin.com/in/jason-passmore-541868245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am fueled by a deep interest in technology and a strong dedication to solving complex problems.
