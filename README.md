@@ -34,7 +34,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 ## Certifications
  <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-## Projects
+## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
