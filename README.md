@@ -6,15 +6,9 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 ## Objective
 My journey through coding languages, network security, and cybersecurity has ignited a passion for cybersecurity. Now more than ever, I am eager to transition into this field, specifically aiming to join a Security Operations Center (SOC).
 
-## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Vulnerability Assessment Report         | <a href="https://github.com/JPass85/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
-| Phishing Alert Ticket | <a href="https://github.com/JPass85/Phishing-Alert-Ticket">Phishing Alert Ticket</a>|
-| Security Risk Assessment Report        | <a href="https://github.com/JPass85/Security-Risk-Assessment-Report">Security Risk Assessment Report</a>|
-| Incident Analysis Report     | <a href="https://github.com/JPass85/Incident-Analysis-Report/tree/main">Incident Analysis Report</a>|
-| SQL Filter Queries                 | <a href="https://github.com/JPass85/SQL-Filter-Queries/tree/main"> SQL Filter Queries</a>|
+
+
 
 
 ## Tools
@@ -45,9 +39,12 @@ My journey through coding languages, network security, and cybersecurity has ign
  <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
 ## Projects
--
--
--
--
--
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Vulnerability Assessment Report         | <a href="https://github.com/JPass85/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
+| Phishing Alert Ticket | <a href="https://github.com/JPass85/Phishing-Alert-Ticket">Phishing Alert Ticket</a>|
+| Security Risk Assessment Report        | <a href="https://github.com/JPass85/Security-Risk-Assessment-Report">Security Risk Assessment Report</a>|
+| Incident Analysis Report     | <a href="https://github.com/JPass85/Incident-Analysis-Report/tree/main">Incident Analysis Report</a>|
+| SQL Filter Queries                 | <a href="https://github.com/JPass85/SQL-Filter-Queries/tree/main"> SQL Filter Queries</a>|
 
