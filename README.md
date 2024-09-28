@@ -8,7 +8,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-<a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> 
+<a href="https://github.com/yourusername/yourrepository" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows/windows-original.svg" alt="windows" width="40" height="40"/> 
 </a>
  
