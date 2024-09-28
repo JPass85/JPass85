@@ -10,7 +10,7 @@ My journey through coding languages, network security, and cybersecurity has ign
 ## Operating Systems
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <rect x="30" y="30" width="60" height="60" fill="white"/>
+ 
 
 ## Tools
 
