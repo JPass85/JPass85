@@ -40,6 +40,16 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 
 ## Skills
 
+### Red Team
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Simple Mail Transfer Protocol Enumeration (SMTP-Enum)          | <a href="https://github.com/JPass85/Vulnerability-Assessment-Report">SMTP-Enum</a>|
+| Phishing Alert Ticket | <a href="https://github.com/JPass85/Phishing-Alert-Ticket">Phishing Alert Ticket</a>|
+| Security Risk Assessment Report        | <a href="https://github.com/JPass85/Security-Risk-Assessment-Report">Security Risk Assessment Report</a>|
+| Incident Analysis Report     | <a href="https://github.com/JPass85/Incident-Analysis-Report/tree/main">Incident Analysis Report</a>|
+| SQL Filter Queries                 | <a href="https://github.com/JPass85/SQL-Filter-Queries/tree/main"> SQL Filter Queries</a>|
+
+
 ### Blue Team
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
