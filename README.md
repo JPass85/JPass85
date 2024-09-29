@@ -3,6 +3,9 @@
 
 I am fueled by a deep interest in technology and a strong dedication to solving complex problems.
 
+## Get In Touch
+
+<a href="https://www.linkedin.com/in/jason-passmore-541868245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Operating Systems
 
@@ -37,6 +40,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 
 ## Skills
 
+### Blue Team
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment Report         | <a href="https://github.com/JPass85/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
@@ -45,6 +49,4 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 | Incident Analysis Report     | <a href="https://github.com/JPass85/Incident-Analysis-Report/tree/main">Incident Analysis Report</a>|
 | SQL Filter Queries                 | <a href="https://github.com/JPass85/SQL-Filter-Queries/tree/main"> SQL Filter Queries</a>|
 
-## Get In Touch
 
-<a href="https://www.linkedin.com/in/jason-passmore-541868245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
