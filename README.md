@@ -44,7 +44,10 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 
 
 ## Certifications
+<div>
  <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Hack%20The%20Box%20CPTS-2D9B27?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white"/>
+</div>
 
 ## Skills
 
