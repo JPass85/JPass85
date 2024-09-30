@@ -51,7 +51,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 
 ## Skills
 
-### Red Team
+### Offensive
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Simple Mail Transfer Protocol Enumeration (SMTP-Enum)          | <a href="https://github.com/JPass85/SMTP-Enum">SMTP-Enum</a>|
@@ -61,7 +61,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 | XXXX                 | <a href="xxxx">XXXX</a>|
 
 
-### Blue Team
+### Defensive
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment Report         | <a href="https://github.com/JPass85/Vulnerability-Assessment-Report">Vulnerability Assessment Report</a>|
