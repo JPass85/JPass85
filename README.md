@@ -11,9 +11,12 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 
 
 ## Operating Systems
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
+<div>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Microsoft%20Windows-0078D6?style=for-the-badge&logo=Microsoft%20Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Apple%20iOS-999999?style=for-the-badge&logo=Apple&logoColor=white" />
+</div>
+
 
 ## Tools
 
