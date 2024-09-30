@@ -28,7 +28,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 
 
 
-### SEIM
+## SEIM
 <div>
   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
