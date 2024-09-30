@@ -21,6 +21,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
 <div>
   <img src="https://img.shields.io/badge/-Metasploit-0e0e0e?style=for-the-badge&logo=Metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Burp%20Suite-FF8800?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
 </div>
 
 
