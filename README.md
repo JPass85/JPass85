@@ -3,9 +3,12 @@
 
 I am fueled by a deep interest in technology and a strong dedication to solving complex problems.
 
-## Get In Touch
-
 <a href="https://www.linkedin.com/in/jason-passmore-541868245/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+## Objective
+ Highly motivated and skilled cybersecurity penetration with many years in identifying, analyzing, and mitigating security vulnerabilities across various systems, networks, and applications. Proficient in ethical hacking techniques, threat modeling, and security testing methodologies, with a strong understanding of industry standard tools like Metasploit, Burp Suite, and Wireshark. Seeking to leverage expertise in vulnerability assessments, risk analysis, and compliance to enhance an organization's security posture and safeguard critical infrastructure from potential threats.
+
 
 ## Operating Systems
 
