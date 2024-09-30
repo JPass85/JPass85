@@ -26,6 +26,7 @@ I am fueled by a deep interest in technology and a strong dedication to solving 
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF8800?style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
   <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/-Hydra-FF3D00?style=for-the-badge&logo=Hydra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WPScan-8A2BE2?style=for-the-badge&logo=WordPress&logoColor=white" />
 </div>
 
 
